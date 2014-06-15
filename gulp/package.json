@@ -1,0 +1,16 @@
+{
+  "name": "gulp-build",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "author": "",
+  "dependencies": {
+    "gulp": "3.8.0",
+    "gulp-concat": "2.2.0",
+    "gulp-imagemin": "0.6.1",
+    "gulp-minify-css": "0.3.4",
+    "gulp-uglify": "0.3.0"
+  },
+  "scripts": {
+    "build": "gulp"
+  }
+}
